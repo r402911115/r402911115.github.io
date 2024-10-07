@@ -58,7 +58,7 @@
       <link href="/2024/09/19/first-article/"/>
       <url>/2024/09/19/first-article/</url>
       
-        <content type="html"><![CDATA[<hr><p><em><strong>這是第一段</strong></em><br><img src="/../images/images.jpg" alt="images"></p><span id="more"></span><p><em><strong>這是第二段</strong></em><br><img src="/../images/download.png" alt="下載"></p>]]></content>
+        <content type="html"><![CDATA[<hr><h2 id="First"><a href="#First" class="headerlink" title="First"></a>First</h2><p><strong>這是第一段</strong>*<br><img src="/../images/images.jpg" alt="images"></p><span id="more"></span><h2 id="Second"><a href="#Second" class="headerlink" title="Second"></a>Second</h2><p><em><strong>這是第二段</strong></em><br><img src="/../images/download.png" alt="下載"></p>]]></content>
       
       
       <categories>
